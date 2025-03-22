@@ -1,6 +1,4 @@
 import { Hono } from 'hono'
-import dotenv from 'dotenv'
-dotenv.config();
 
 const app = new Hono()
 
